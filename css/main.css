@@ -41,8 +41,11 @@ h2 {
   margin: 0;
 }
 
-cite {
+h3 {
   font-size: .875rem;
+  font-style: italic;
+  font-weight: normal;
+  margin: 0;
 }
 
 p {
