@@ -17,6 +17,10 @@ h1 {
   text-align: center;
 }
 
+section {
+  height: 414px;
+}
+
 div {
   float: left;
   width: 25%;
